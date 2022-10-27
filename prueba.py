@@ -1,5 +1,2 @@
-edad=4
-
-while edad<=4:
-    print("hola")
-    print("como estas")
+for i in range(10):
+    print(i)
