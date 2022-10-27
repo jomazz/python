@@ -1,2 +1,3 @@
 print("Hola mundo")
-print("ya casi le agarro el time")
+print("estamos aprendiendo git")
+print("poco a poco iremos avanzando")
